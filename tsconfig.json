@@ -1,0 +1,11 @@
+{
+  "compileOnSave": true,
+  "buildOptions": {},
+  "typeAcquisition": {},
+  "watchOptions": {},
+
+  "compilerOptions": {
+    "target": "esnext",
+    "allowJs": true
+  }
+}
