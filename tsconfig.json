@@ -1,11 +1,16 @@
 {
   "compileOnSave": true,
+  "include": [
+
+  ],
   "buildOptions": {},
   "typeAcquisition": {},
   "watchOptions": {},
 
   "compilerOptions": {
     "target": "esnext",
-    "allowJs": true
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "tsBuildInfoFile": ".tsbuildinfo"
   }
 }
