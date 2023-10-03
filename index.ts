@@ -9,6 +9,7 @@ import { renderToString } from 'react-dom/server';
 // Import stylesheets
 import './style.css';
 
+google
 
 
 const formatCell = (sheetTitle, columnTitle, value) => value.toUpperCase();
@@ -48,7 +49,6 @@ let data = [
     color: 'red',
   },
 ];
-
 // appDiv.innerHTML = data.flatMap(i => React.createElement('div', i))
 
 // formToJSON
